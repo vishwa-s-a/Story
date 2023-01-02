@@ -10,4 +10,10 @@
  this commits all the files present in stagging area
 *git log
  this shows all commits
- 
+*git diff file.name
+ this shows any untracked modification done to that file and tries to show the differences
+*git checkout file.name
+ this roll backs to previous version(tracked version) of the file
+*git remote add origin url/of/newly/created/repository
+ this adds the url of remote repository to this folder so in future you can easily push all files here. here the url can be
+ https://github.com/vishwa-s-a/Story.git like this
