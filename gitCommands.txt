@@ -4,6 +4,10 @@
  this shows all the files present in staging area
 *git add file.name
  this adds this particular file into stagging area. 
-*git add -a
+*git add .(// here . is a argument not to confuse with full stop)
  this adds all files in a folder into stagging area.
+*git commit -m "Commit message in present tense"
+ this commits all the files present in stagging area
+*git log
+ this shows all commits
  
