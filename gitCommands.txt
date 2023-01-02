@@ -17,3 +17,9 @@
 *git remote add origin url/of/newly/created/repository
  this adds the url of remote repository to this folder so in future you can easily push all files here. here the url can be
  https://github.com/vishwa-s-a/Story.git like this
+*git push -u origin master
+ this command pushes all files to selected remote repository. here origin is new repository name and master is branch name
+*git rm --cached file_name.txt
+ this command removes this file from staging area and keeps it in untracked section
+*git rm --cached -r .
+ this command  removes all files present in staging area 
