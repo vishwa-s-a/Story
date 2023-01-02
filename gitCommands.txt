@@ -1,0 +1,9 @@
+*git init
+ this command initialises a folder into local git repository.
+*git status
+ this shows all the files present in staging area
+*git add file.name
+ this adds this particular file into stagging area. 
+*git add -a
+ this adds all files in a folder into stagging area.
+ 
