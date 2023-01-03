@@ -23,3 +23,13 @@
  this command removes this file from staging area and keeps it in untracked section
 *git rm --cached -r .
  this command  removes all files present in staging area 
+*in .gitignore file '#' is used for commenting things out
+*git clone https_link_of_repository
+ this command clones the specified repo at this location
+*git branch new_branch_name
+ example: git branch alienPlot
+ this creates a branch as specified. like in example it is alienPlot
+*git branch
+ this shows all branches present in this project
+*git checkout alienPlot
+ this switches to branch named as alienPlot
