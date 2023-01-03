@@ -45,3 +45,7 @@
   local machine make any changes and commit it into your accounts forked repo.
 * if you find that the commit made into your forked repo are useful then you can send pull request to the actual owner of the repo, so he will audit the code and see the 
   usefullness of the code and accepts the pull request if needed and merges your modified repo into his, by this way you can help to contribute to open source
+************************************************************************
+if lot of changes have happened in your remote repo and you want to sync those changes into your local repo then
+*git pull -p
+ use this command to pull all changes happened in your remote repo into your local repo, this will merge master branch of remote repo with master branch of local repo
