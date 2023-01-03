@@ -33,3 +33,5 @@
  this shows all branches present in this project
 *git checkout alienPlot
  this switches to branch named as alienPlot
+* (origin/master) represents master branch of online repo, here origin is the name of online repo or github repo
+* (HEAD -> master) represents master branch of local repo
