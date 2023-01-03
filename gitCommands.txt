@@ -35,3 +35,8 @@
  this switches to branch named as alienPlot
 * (origin/master) represents master branch of online repo, here origin is the name of online repo or github repo
 * (HEAD -> master) represents master branch of local repo
+* when we are happy with changes made in other branch and want to merge then we should go to master branch first then follow this commands
+*git merge alienPlot   here alienPlot is name of the branch which we want to merge to master
+ then it opens up vim editor and there if needed give a message for  this merge and to quit the vim use this :q! to quit the vim editor
+ if vim is not there then it opens up merge commit message file in nano, there give the suitable message why this merge is necessary by using space,enter.
+* to see all commits in online repo go to insights>> network , here you can see all commit and the changes made in that commit
